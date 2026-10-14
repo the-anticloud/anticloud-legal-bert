@@ -1,0 +1,38 @@
+{
+  "project": "LEGAL_BERT",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "nonameemnlp2020/legalBERT",
+  "search_url": "https://api.github.com/search/repositories?q=legal-bert&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "nonameemnlp2020/legalBERT",
+      "stars": 16,
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "Vanellope0602/bertNER_legal_pretrained",
+      "stars": 13,
+      "license": null
+    },
+    {
+      "full_name": "ThuYShao/BERT-PLI-IJCAI2020",
+      "stars": 36,
+      "license": null
+    },
+    {
+      "full_name": "avichaychriqui/Legal-HeBERT",
+      "stars": 9,
+      "license": "GPL-3.0"
+    },
+    {
+      "full_name": "elenanereiss/bert-legal-ner",
+      "stars": 8,
+      "license": null
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/nonameemnlp2020/legalBERT/commits/master",
+  "commit_status": 200,
+  "default_branch": null,
+  "commit_response_excerpt": "{\"sha\": \"721e9b229054333de4054f96b323f31ffc5d35ab\", \"commit\": {\"message\": \"Initial commit\", \"committer_date\": \"2020-06-01T17:16:31Z\"}}"
+}
